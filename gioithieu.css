@@ -1,0 +1,63 @@
+#content {
+    margin-top: 60px;
+}
+#content ul{
+    list-style-type: none;
+}
+#content li{
+    display: inline-block;
+    font-size: 18;
+}
+#content a{
+    color: #000;
+    font-weight: 200;
+}
+#content a:hover{
+    text-decoration: none;
+    font-weight: 700;
+}
+#content  h1{
+    font-size: 30px;
+    text-align: left;
+    font-family: Cairo;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 24px;
+    color: #666666;
+}
+#content .row{
+    background-image: url(imge/bg-about-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1919px;
+    height: 411px;
+    margin-left:-400px;
+}
+#content p{
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+#content .xuongchu{
+    margin-top: 80px;
+}
+.canggiuachu{
+    text-align: center;
+}
+#lido h1{
+    font-size: 30px;
+    text-align: left;
+    font-family: Cairo;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 24px;
+    color:#000;
+}
+#lido p{
+    text-align: center;
+    font-size: 15px;
+    color: #666666;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-style: italic;
+}

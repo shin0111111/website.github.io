@@ -1,0 +1,485 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+.p-0{
+  padding: 0 !important;
+}
+.motnua{
+    width: 40%;
+}
+.full{
+ width: 90%;
+}
+.trai{
+    float: left;
+}
+.phai{
+    float: right;
+}
+
+.container{
+    max-width: 100%;
+}
+#nav{
+    margin-top: 30px;
+}
+.navbar-brand{
+    margin-top: -25px;
+}
+.navbar-nav{
+ margin-left: 70px;
+}
+#nav a{
+    color: black;
+    font-size: 17;
+    font-weight: 400;
+    
+}
+.active a{
+    text-decoration: underline;
+}
+.xanh{
+    color: green;
+}
+#form p{
+    background-color: green;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+    font-weight: bold;
+    box-sizing: border-box;
+    border: 1px black;
+    width: 250;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 15px;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+}
+#nav span{
+    font-size: 20;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.clear{
+ clear: both;
+}
+#form button{
+    width: 200px;
+}
+#form{
+    box-shadow: 0 1px black;
+}
+#gianhang h2{
+    margin-bottom: 30px;
+    padding: 0;
+}
+#gianhang .left{
+    background-image: url(imge/thuc-pham-nong-san.webp);
+    width: 420px;
+    height: 562px;
+    background-repeat: no-repeat;
+}
+#gianhang .left h1{
+    margin-top: 500px;
+    margin-left: 40px;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-strawberry.webp);
+}
+.clear{
+    clear: both;
+}
+#gianhang .top-left h1{
+    margin-top: 200;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-fruit-juice.webp);
+}
+#gianhang .top-left{
+    background-image: url(imge/thuc-pham-kho.webp);
+    width: 310px;
+    height: 300px;
+    background-repeat: no-repeat;
+}
+#gianhang .top-right{
+    background-image: url(imge/thuc-pham-dong-hop.webp);
+    width: 310px;
+    height: 300px;
+    background-repeat: no-repeat;
+}
+#gianhang .top-right h1{
+    margin-top: 200;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-blueberries.webp);
+}
+#gianhang .bot-left{
+    background-image: url(imge/gia-vi.webp);
+    width: 310px;
+    height: 300px;
+}
+#gianhang .bot-left h1{
+    margin-top: 200;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-raspberries.webp);
+}
+#gianhang .bot-right h1{
+    margin-top: 200;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-our-berries.webp);
+}
+#gianhang .bot-right{
+    background-image: url(imge/thuc-uong-1.webp);
+    width: 310px;
+    height: 300px;
+}
+#gianhang .right h1{
+    margin-top: 500px;
+    margin-left: 40px;
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+    line-height: 72px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    color: #fff;
+    max-width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(imge/btn-pomegranate.webp);
+}
+#gianhang .right{
+    background-image: url(imge/thuc-pham-tuoi-song.webp);
+    width: 450px;
+    height: 562px;
+    background-repeat: no-repeat;
+}
+#v1{
+    margin-top: 80px;
+}
+.canggiua{
+    display: block; margin-left: auto; margin-right: auto;
+}
+#v1,#v3 p{
+    font-family: "Playfair Display", sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    color: #666;
+    margin-top: 10px;
+    text-align: center;
+}
+#v1,#v3 h1{
+    font-size: 3em;
+    font-weight: 700;
+    text-align: center;
+}
+.nav2{
+    margin-left: 360px;
+}
+#v1 nav{
+    border: none;
+    font-size:2rem;
+    background-color: white;
+}
+#v1 .nen{
+    background-image: url(imge/btn-strawberry.webp);
+    color: #fff;
+    background-size:100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    display: inline-block;
+}
+#v1 a{
+    font-weight: 600;
+}
+#v1 a:hover{
+    background-image: url(imge/btn-strawberry.webp);
+    color: #fff;
+    background-size:80%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    display: inline-block;
+}
+#v2 p {
+    margin-top:10px;
+    text-align: center;
+    font-size: 14px;
+    display: block;
+    color: #888;
+}
+#v2 h4{
+    text-align: center;
+    color: black;
+}
+#v2 h5{
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    color: black;
+}
+#v2 a{
+    text-decoration: none;
+}
+#v2 h4:hover{
+    color: greenyellow;
+}
+#v2 p:hover{
+    color:greenyellow; 
+}
+#v3{
+ margin-top: 60px;
+}
+#v3 img{
+    margin-top: 65px;
+}
+#v3 img:hover{
+transform: scale(1.1);
+overflow: hidden ;
+transition: all 400ms ease-in-out;
+}
+#v3 a:hover{
+    text-decoration: none;
+}
+#v3 h3{
+    margin-top: 100px;
+    text-align: center;
+    color: #000;
+    font-weight: 600;
+}
+#v3 h3:hover{
+    color: yellowgreen;
+}
+#v3 .xoam{
+    margin-top: 0px;
+}
+#V3 .dayright{
+    margin-left: 400px;
+}
+#v3 .dayright p{
+    display: inline-block;
+    margin-left: 20px;
+}
+#v3 .xanh{
+    font-weight: 700;
+    color: yellowgreen;
+}
+#v3 a:hover{
+    color: yellowgreen;
+}
+#v3 a{
+    color: #000;
+}
+#v4 img{
+    display: block;
+}
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  #myImg:hover {opacity: 0.4;}
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+  
+  /* Modal Content (Image) */
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 500px;
+  }
+  
+  /* Caption of Modal Image (Image Text) - Same Width as the Image */
+  #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 500px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  
+  /* Add Animation - Zoom in the Modal */
+  .modal-content, #caption {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  
+  @keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+  }
+  
+  /* The Close Button */
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* 100% Image Width on Smaller Screens */
+  @media only screen and (max-width: 500px){
+    .modal-content {
+      width: 100%;
+    }
+  }
+ #form input[type="text"] {
+    width: 400px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+    outline:none;
+    padding: 12px 14px;
+
+    transition:0.6s ease-in-out;
+  }
+  #form input[type="text"]:focus{
+    width:500px; 
+  }
+  #v5{
+    margin-top:80px;
+  }
+  #v5 p{
+    margin-left: 65px;
+    margin-top: -50px;
+  }
+  #v5 a{
+    color: #000;
+    font-weight: 700;
+  }
+  #v5 a:hover{
+    text-decoration: none;
+  }
+  #v5 input[type="text"] {
+    width: 300px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 4px;
+    outline:none;
+    padding: 12px 14px;
+     transition:0.6s ease-in-out;
+  }
+  #v5 input[type="text"]:focus{
+   background-color: aqua; 
+  }
+  #v5 ul{
+    list-style-type: none;
+  }
+  #v5 ul a{
+    color: #bbb;
+    font-size: 14;
+    font-weight: 100;
+
+
+  }
+  #v5 li{
+    margin-top: 10px;
+  }
+  #v5 ul a:hover {
+    color: yellowgreen;
+  }
+  .len{
+    margin-top: -200;
+  }
+  #v5 .ra ul {
+    margin-left: -40px;
+  }
+  #v5 .ra li{
+    margin: 0px;
+  }
+
+

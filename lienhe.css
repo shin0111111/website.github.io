@@ -1,0 +1,38 @@
+#noidung{
+    margin-top: 60px;
+}
+#noidung ul{
+    list-style-type: none;
+}
+#noidung li{
+    display: inline-block;
+}
+#noidung a{
+    font-size: 18;
+    font-weight: 200;
+    color: black;
+}
+#noidung a:hover{
+    text-decoration: none;
+    font-weight: 700;
+}
+#noidung h1{
+    font-weight: 700;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#noidung p{
+    display: block;
+    margin-top: 20px;
+}
+.motdong{
+    width: 90%;
+}
+#noidung .to{
+    height: 100px;
+}
+#noidung input{
+    margin-top: 20px;
+    height: 40px;
+    border-color: rgb(213, 212, 212);
+}
